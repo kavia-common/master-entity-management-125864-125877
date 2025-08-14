@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/home/kavia/workspace/code-generation/master-entity-management-125864-125877/backend_api"
+}
